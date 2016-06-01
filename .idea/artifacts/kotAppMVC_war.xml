@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kotAppMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kotAppMVC-1.0.war">
+      <element id="artifact" artifact-name="kotAppMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
